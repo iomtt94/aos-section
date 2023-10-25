@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'gibson-book';
+  src: url(./gibson-book.eot);
+  src: url(./gibson-book.eot?#iefix) format('embedded-opentype'),
+       url(./gibson-book.ttf) format('truetype'),
+       url(./gibson-book.woff) format('woff'),
+       url(./gibson-book.woff2) format('woff2'),
+       url(./gibson-book.otf) format('otf'),
+       url(./gibson-book.svg#gibson-book) format('svg');
+}
